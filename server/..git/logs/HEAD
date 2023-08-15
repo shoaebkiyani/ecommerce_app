@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 825fdc664a4323350a56c3e166901a4ecfa2dabf shoaebkiyani <shoaebkiyani@yahoo.com> 1690577405 +0300	commit (initial): Authentication (login/logout) functionality implemented
+825fdc664a4323350a56c3e166901a4ecfa2dabf fd7a8ff17f57891d9cba10159764a8bea7d1f5cc shoaebkiyani <shoaebkiyani@yahoo.com> 1690606938 +0300	commit: Authentication custom login functionality implemented
+fd7a8ff17f57891d9cba10159764a8bea7d1f5cc 0b642074cb09f6e824563cb46e1481588f402601 shoaebkiyani <shoaebkiyani@yahoo.com> 1690990277 +0300	commit: role class added
+0b642074cb09f6e824563cb46e1481588f402601 a22fd170aca7bf0d98fac1ee1c3fea0ce554bda0 shoaebkiyani <shoaebkiyani@yahoo.com> 1692116515 +0300	commit: files and folder structure updated
+a22fd170aca7bf0d98fac1ee1c3fea0ce554bda0 0000000000000000000000000000000000000000 shoaebkiyani <shoaebkiyani@yahoo.com> 1692116575 +0300	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 a22fd170aca7bf0d98fac1ee1c3fea0ce554bda0 shoaebkiyani <shoaebkiyani@yahoo.com> 1692116575 +0300	Branch: renamed refs/heads/master to refs/heads/main
